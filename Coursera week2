@@ -1,0 +1,4 @@
+nam = input("who are you?")
+print ("welcome", nam) #the space here will result in welcome Chuck not welcomechuck AFTER WRITING NAME TYPE ENTER
+who are you?EVE
+welcome EVE
